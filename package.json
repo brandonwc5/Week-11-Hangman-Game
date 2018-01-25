@@ -1,0 +1,22 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "hangmangame",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonwc5/Week-11-Hangman-Game.git"
+  },
+  "keywords": [
+    "hangman"
+  ],
+  "author": "Brandon Cowart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonwc5/Week-11-Hangman-Game/issues"
+  },
+  "homepage": "https://github.com/brandonwc5/Week-11-Hangman-Game#readme"
+}
